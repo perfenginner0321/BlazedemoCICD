@@ -16,17 +16,17 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="tg.count" elementType="Argument">
             <stringProp name="Argument.name">tg.count</stringProp>
-            <stringProp name="Argument.value">${__P(tg.count,1)}</stringProp>
+            <stringProp name="Argument.value">${__P(tg.count)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="tg.rampup" elementType="Argument">
             <stringProp name="Argument.name">tg.rampup</stringProp>
-            <stringProp name="Argument.value">${__P(tg.rampup,1)}</stringProp>
+            <stringProp name="Argument.value">${__P(tg.rampup)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="tg.duration" elementType="Argument">
             <stringProp name="Argument.name">tg.duration</stringProp>
-            <stringProp name="Argument.value">${__P(tg.duration,1)}</stringProp>
+            <stringProp name="Argument.value">${__P(tg.duration)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
